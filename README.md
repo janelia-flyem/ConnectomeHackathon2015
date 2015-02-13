@@ -1,6 +1,6 @@
 Connectome Hackathon 2015      [![Picture](https://raw.github.com/janelia-flyem/janelia-flyem.github.com/master/images/HHMI_Janelia_Color_Alternate_180x40.png)](http://www.janelia.org)
 ====
-*Status: not ready.  Will be formally released 2/16/15.*
+*Status: almost ready (there will be some modifications to the neuroninfo file)*
 
 Information for the Janelia Connectome Workshop and Hackathon 2015.  The repository contains files that will be useful for hackathon attendees.  See the [Hackathon Wiki](https://github.com/janelia-flyem/ConnectomeHackathon2015/wiki) for more information including documentation and use cases.
 
