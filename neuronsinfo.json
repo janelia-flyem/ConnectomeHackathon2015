@@ -1,0 +1,2774 @@
+{
+    "14678": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-P", 
+        "Class": "L"
+    }, 
+    "114789": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-E", 
+        "Class": "Tm"
+    }, 
+    "26471": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-C", 
+        "Class": "Mi"
+    }, 
+    "11544": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2 home", 
+        "Class": "L"
+    }, 
+    "614159": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-C", 
+        "Class": "T4"
+    }, 
+    "38612": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-D", 
+        "Class": "C"
+    }, 
+    "327705": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm16", 
+        "Name": "Tm16-like-3", 
+        "Class": "Tm"
+    }, 
+    "1949": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm3", 
+        "Name": "Dm3-0", 
+        "Class": "Dm"
+    }, 
+    "76808": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-E", 
+        "Class": "T2"
+    }, 
+    "297808": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi2", 
+        "Name": "Mi2-1", 
+        "Class": "Mi"
+    }, 
+    "579905": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-8", 
+        "Class": "Pm"
+    }, 
+    "19395": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8 home", 
+        "Class": "R"
+    }, 
+    "597478": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-X1", 
+        "Class": "T4"
+    }, 
+    "582704": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-D", 
+        "Class": "Tm"
+    }, 
+    "138559": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi4", 
+        "Name": "Mi4-2", 
+        "Class": "Mi"
+    }, 
+    "211513": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-J", 
+        "Class": "Dm"
+    }, 
+    "11856": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-9", 
+        "Class": "Pm"
+    }, 
+    "76699": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm9", 
+        "Name": "Dm9-3", 
+        "Class": "Dm"
+    }, 
+    "76698": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-E", 
+        "Class": "T2"
+    }, 
+    "16677": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-C", 
+        "Class": "L"
+    }, 
+    "547880": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-X2", 
+        "Class": "T4"
+    }, 
+    "560920": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-P", 
+        "Class": "T4"
+    }, 
+    "457018": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm3", 
+        "Name": "Pm3-1", 
+        "Class": "Pm"
+    }, 
+    "16571": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-J", 
+        "Name": "Tm20-J", 
+        "Class": "Tm"
+    }, 
+    "1700": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14-A", 
+        "Class": "Tm"
+    }, 
+    "1703": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi2", 
+        "Name": "Mi2-0", 
+        "Class": "Mi"
+    }, 
+    "13606": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm25", 
+        "Name": "Tm25/Y1-E", 
+        "Class": "Tm"
+    }, 
+    "10961": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2 home", 
+        "Class": "C"
+    }, 
+    "464206": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-O", 
+        "Class": "Mi"
+    }, 
+    "269760": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-J", 
+        "Class": "R"
+    }, 
+    "13015": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-A-ant", 
+        "Class": "Tm"
+    }, 
+    "59003": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-C", 
+        "Class": "Tm"
+    }, 
+    "26483": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "448816": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-F", 
+        "Class": "T3"
+    }, 
+    "456384": {
+        "Superclass": "Y", 
+        "Type": "Y3/6", 
+        "Name": "Y3/Y6-4", 
+        "Class": "Y"
+    }, 
+    "373936": {
+        "Superclass": "Lamina", 
+        "Type": "Lawf2", 
+        "Name": "Lawf2-0", 
+        "Class": "Lawf"
+    }, 
+    "6593": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-F", 
+        "Class": "L"
+    }, 
+    "16499": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-B", 
+        "Class": "R"
+    }, 
+    "557574": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-E", 
+        "Class": "T4"
+    }, 
+    "16495": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-C", 
+        "Class": "Dm"
+    }, 
+    "16497": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-J", 
+        "Class": "L"
+    }, 
+    "24832": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-E", 
+        "Class": "C"
+    }, 
+    "434489": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm4", 
+        "Name": "Pm4-2", 
+        "Class": "Pm"
+    }, 
+    "108573": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-006", 
+        "Class": "Dm"
+    }, 
+    "8911869": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-Q", 
+        "Class": "T2"
+    }, 
+    "109571": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-002", 
+        "Class": "Dm"
+    }, 
+    "519789": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm4", 
+        "Name": "Pm4-0", 
+        "Class": "Pm"
+    }, 
+    "470364": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi4", 
+        "Name": "Mi4-1", 
+        "Class": "Mi"
+    }, 
+    "104064": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-102", 
+        "Class": "Dm"
+    }, 
+    "5003": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-F-ant", 
+        "Class": "Tm"
+    }, 
+    "378291": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-F", 
+        "Class": "T2"
+    }, 
+    "9255": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9-B", 
+        "Class": "Tm"
+    }, 
+    "23549": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5b-F", 
+        "Name": "Tm5b-F", 
+        "Class": "Tm"
+    }, 
+    "103": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm3", 
+        "Name": "Dm3-1", 
+        "Class": "Dm"
+    }, 
+    "148735": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi4", 
+        "Name": "Mi4-4", 
+        "Class": "Mi"
+    }, 
+    "26544": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14-K", 
+        "Class": "Tm"
+    }, 
+    "173939": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm16", 
+        "Name": "Tm16-like-2", 
+        "Class": "Tm"
+    }, 
+    "906": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-A-post", 
+        "Class": "Tm"
+    }, 
+    "2048": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-A", 
+        "Class": "Tm"
+    }, 
+    "554800": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "2168": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-R", 
+        "Class": "L"
+    }, 
+    "526685": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-D", 
+        "Class": "T3"
+    }, 
+    "469057": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-D", 
+        "Class": "T2"
+    }, 
+    "19183": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-B", 
+        "Class": "Tm"
+    }, 
+    "53216": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2 home", 
+        "Class": "Tm"
+    }, 
+    "589473": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-L", 
+        "Class": "Mi"
+    }, 
+    "598856": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud home", 
+        "Class": "T4"
+    }, 
+    "93744": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-Q", 
+        "Class": "L"
+    }, 
+    "35751": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm7", 
+        "Name": "Dm7-0", 
+        "Class": "Dm"
+    }, 
+    "35752": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm7", 
+        "Name": "Dm7/Mi16-like-0", 
+        "Class": "Dm"
+    }, 
+    "28666": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-D", 
+        "Class": "C"
+    }, 
+    "167340": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-P", 
+        "Class": "R"
+    }, 
+    "24457": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-E", 
+        "Class": "L"
+    }, 
+    "33176": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9-E", 
+        "Class": "Tm"
+    }, 
+    "19331": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5Y", 
+        "Name": "Tm5Y-A", 
+        "Class": "Tm"
+    }, 
+    "150507": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-F", 
+        "Name": "Tm20-F", 
+        "Class": "Tm"
+    }, 
+    "525937": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-D", 
+        "Class": "Mi"
+    }, 
+    "95173": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-B", 
+        "Class": "Dm"
+    }, 
+    "805065": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-J", 
+        "Class": "L"
+    }, 
+    "571192": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-E", 
+        "Class": "Mi"
+    }, 
+    "166449": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5b home", 
+        "Name": "Tm5b home", 
+        "Class": "Tm"
+    }, 
+    "24153": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-P", 
+        "Class": "Dm"
+    }, 
+    "26440": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-C", 
+        "Class": "T1"
+    }, 
+    "406792": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-O", 
+        "Class": "Mi"
+    }, 
+    "2862": {
+        "Superclass": "Lamina", 
+        "Type": "Lawf2", 
+        "Name": "Lawf2-1", 
+        "Class": "Lawf"
+    }, 
+    "28564": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm3", 
+        "Name": "Dm3-3", 
+        "Class": "Dm"
+    }, 
+    "33694": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-E", 
+        "Class": "R"
+    }, 
+    "33690": {
+        "Superclass": "Lamina", 
+        "Type": "Lawf1", 
+        "Name": "Lawf1-2", 
+        "Class": "Lawf"
+    }, 
+    "11407": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-E", 
+        "Class": "Dm"
+    }, 
+    "595019": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-N", 
+        "Class": "Mi"
+    }, 
+    "182798": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-K", 
+        "Name": "Tm20-K", 
+        "Class": "Tm"
+    }, 
+    "31735": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-D", 
+        "Class": "L"
+    }, 
+    "21894": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7 home", 
+        "Class": "R"
+    }, 
+    "672884": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-D", 
+        "Class": "T4"
+    }, 
+    "30155": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-D", 
+        "Class": "L"
+    }, 
+    "71431": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY10", 
+        "Name": "TmY10-like-1", 
+        "Class": "TmY"
+    }, 
+    "18631": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-C-ant", 
+        "Class": "Tm"
+    }, 
+    "1752": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-A", 
+        "Class": "Tm"
+    }, 
+    "146": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-A", 
+        "Class": "C"
+    }, 
+    "45354": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-Q", 
+        "Class": "Tm"
+    }, 
+    "519800": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-K", 
+        "Class": "Mi"
+    }, 
+    "513477": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-C", 
+        "Class": "T3"
+    }, 
+    "95301": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-001", 
+        "Class": "Dm"
+    }, 
+    "1186632": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-P", 
+        "Class": "R"
+    }, 
+    "87615": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-103", 
+        "Class": "Dm"
+    }, 
+    "612170": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-C", 
+        "Class": "T4"
+    }, 
+    "551590": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-P", 
+        "Class": "T4"
+    }, 
+    "16699": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY3", 
+        "Name": "TmY3 home", 
+        "Class": "TmY"
+    }, 
+    "11162": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-C-ant", 
+        "Class": "Tm"
+    }, 
+    "423791": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-K", 
+        "Class": "Mi"
+    }, 
+    "175032": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-1", 
+        "Class": "Dm"
+    }, 
+    "96762": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm28", 
+        "Name": "Tm28/TmY9-0", 
+        "Class": "Tm"
+    }, 
+    "31602": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5c-like", 
+        "Name": "Tm5c-like", 
+        "Class": "Tm"
+    }, 
+    "64129": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3 home", 
+        "Class": "Mi"
+    }, 
+    "31342": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-D", 
+        "Class": "Tm"
+    }, 
+    "452261": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm3", 
+        "Name": "Pm3-0", 
+        "Class": "Pm"
+    }, 
+    "28537": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "273718": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "66947": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-P", 
+        "Class": "Tm"
+    }, 
+    "94697": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-000", 
+        "Class": "Dm"
+    }, 
+    "22834": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5c-2", 
+        "Name": "Tm5c-2", 
+        "Class": "Tm"
+    }, 
+    "36474": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm5", 
+        "Name": "Dm5-like-0", 
+        "Class": "Dm"
+    }, 
+    "7595": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-B", 
+        "Class": "C"
+    }, 
+    "29": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-A", 
+        "Class": "C"
+    }, 
+    "38210": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY3", 
+        "Name": "TmY3-C", 
+        "Class": "TmY"
+    }, 
+    "2150": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-F", 
+        "Class": "Dm"
+    }, 
+    "2158": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-R", 
+        "Class": "L"
+    }, 
+    "5380": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-Q", 
+        "Class": "C"
+    }, 
+    "45757": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-F", 
+        "Class": "Mi"
+    }, 
+    "182748": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-K", 
+        "Class": "L"
+    }, 
+    "182744": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm9", 
+        "Name": "Dm9-4", 
+        "Class": "Dm"
+    }, 
+    "27489": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-C", 
+        "Class": "L"
+    }, 
+    "384054": {
+        "Superclass": "Y", 
+        "Type": "Y3/6", 
+        "Name": "Y3/Y6-2", 
+        "Class": "Y"
+    }, 
+    "597861": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb home", 
+        "Class": "T4"
+    }, 
+    "226058": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-L", 
+        "Class": "L"
+    }, 
+    "4035": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY3", 
+        "Name": "TmY3-P", 
+        "Class": "TmY"
+    }, 
+    "23375": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm16", 
+        "Name": "Tm16-like-0", 
+        "Class": "Tm"
+    }, 
+    "38603": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-D", 
+        "Class": "T1"
+    }, 
+    "544776": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-F", 
+        "Class": "T4"
+    }, 
+    "35774": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY4", 
+        "Name": "TmY4-like-1", 
+        "Class": "TmY"
+    }, 
+    "3567": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-A", 
+        "Class": "T2"
+    }, 
+    "625322": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-X2", 
+        "Class": "T4"
+    }, 
+    "24114": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY13", 
+        "Name": "TmY13-like-0", 
+        "Class": "TmY"
+    }, 
+    "589449": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-L", 
+        "Class": "Tm"
+    }, 
+    "70758": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-K", 
+        "Class": "T2"
+    }, 
+    "516159": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-5", 
+        "Class": "Pm"
+    }, 
+    "7131": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-B", 
+        "Class": "L"
+    }, 
+    "84": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9-A", 
+        "Class": "Tm"
+    }, 
+    "31699": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-E-post", 
+        "Class": "Tm"
+    }, 
+    "614137": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-X1", 
+        "Class": "T4"
+    }, 
+    "603747": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-C", 
+        "Class": "T4"
+    }, 
+    "26315": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "166128": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-5", 
+        "Class": "Dm"
+    }, 
+    "87596": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-003", 
+        "Class": "Dm"
+    }, 
+    "22056": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-E", 
+        "Class": "C"
+    }, 
+    "15824": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-F", 
+        "Class": "T2"
+    }, 
+    "468117": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-L", 
+        "Class": "T3"
+    }, 
+    "71472": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-C", 
+        "Class": "Tm"
+    }, 
+    "449809": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-P", 
+        "Class": "Tm"
+    }, 
+    "49079": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5c-0", 
+        "Name": "Tm5c-0", 
+        "Class": "Tm"
+    }, 
+    "17238": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-C", 
+        "Name": "Tm20-C", 
+        "Class": "Tm"
+    }, 
+    "607016": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-X2", 
+        "Class": "T4"
+    }, 
+    "138720": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-A", 
+        "Class": "Dm"
+    }, 
+    "545352": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-X1", 
+        "Class": "T4"
+    }, 
+    "4544": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY5", 
+        "Name": "TmY5a-F", 
+        "Class": "TmY"
+    }, 
+    "2275": {
+        "Superclass": "Lamina", 
+        "Type": "Lawf1", 
+        "Name": "Lawf1-1", 
+        "Class": "Lawf"
+    }, 
+    "629764": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-L", 
+        "Class": "T4"
+    }, 
+    "586064": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-N", 
+        "Class": "Mi"
+    }, 
+    "64160": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4 home", 
+        "Class": "Tm"
+    }, 
+    "137381": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-A", 
+        "Class": "Tm"
+    }, 
+    "13019": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-B-ant", 
+        "Class": "Tm"
+    }, 
+    "79198": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-K", 
+        "Class": "Tm"
+    }, 
+    "21945": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4 home", 
+        "Class": "L"
+    }, 
+    "156484": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-6", 
+        "Class": "Dm"
+    }, 
+    "8502": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-B-post", 
+        "Class": "Tm"
+    }, 
+    "10655": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3 home", 
+        "Class": "C"
+    }, 
+    "9531": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-6", 
+        "Class": "Dm"
+    }, 
+    "574727": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-O", 
+        "Class": "T4"
+    }, 
+    "38583": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-D", 
+        "Class": "R"
+    }, 
+    "137555": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-A", 
+        "Name": "Tm20-A", 
+        "Class": "Tm"
+    }, 
+    "28700": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-D", 
+        "Class": "L"
+    }, 
+    "11154": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-B", 
+        "Class": "L"
+    }, 
+    "21280": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-C", 
+        "Class": "T2"
+    }, 
+    "26038": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-E", 
+        "Class": "L"
+    }, 
+    "10625": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-B", 
+        "Class": "T2"
+    }, 
+    "24094": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-P", 
+        "Class": "Mi"
+    }, 
+    "435501": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-1", 
+        "Class": "Pm"
+    }, 
+    "21840": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1 home", 
+        "Class": "Tm"
+    }, 
+    "256356": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5b-C", 
+        "Name": "Tm5b-C", 
+        "Class": "Tm"
+    }, 
+    "591813": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-out", 
+        "Class": "T2"
+    }, 
+    "577413": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-K", 
+        "Class": "Tm"
+    }, 
+    "414418": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9-D", 
+        "Class": "Tm"
+    }, 
+    "23724": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2 home", 
+        "Class": "T2"
+    }, 
+    "36010": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-K", 
+        "Class": "L"
+    }, 
+    "284833": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm5", 
+        "Name": "Dm5-like-2", 
+        "Class": "Dm"
+    }, 
+    "75101": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-E", 
+        "Class": "Tm"
+    }, 
+    "7763": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-B", 
+        "Class": "L"
+    }, 
+    "251547": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-P", 
+        "Class": "Dm"
+    }, 
+    "28673": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-C", 
+        "Class": "T2"
+    }, 
+    "3904": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY3", 
+        "Name": "TmY3-F", 
+        "Class": "TmY"
+    }, 
+    "56498": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-P", 
+        "Class": "C"
+    }, 
+    "14879": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-P", 
+        "Class": "L"
+    }, 
+    "439774": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-9", 
+        "Class": "Pm"
+    }, 
+    "26353": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-C", 
+        "Class": "L"
+    }, 
+    "435478": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-A", 
+        "Class": "T3"
+    }, 
+    "551740": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "482378": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-L", 
+        "Class": "Mi"
+    }, 
+    "547780": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-F", 
+        "Class": "T4"
+    }, 
+    "11245": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-0", 
+        "Class": "Dm"
+    }, 
+    "35244": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-E", 
+        "Class": "Mi"
+    }, 
+    "597824": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-A", 
+        "Class": "T4"
+    }, 
+    "19741": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "241974": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "438177": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-10", 
+        "Class": "Pm"
+    }, 
+    "77": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-A", 
+        "Class": "R"
+    }, 
+    "22060": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3 home", 
+        "Class": "T2"
+    }, 
+    "2183": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-A", 
+        "Class": "L"
+    }, 
+    "22594": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a home-ant", 
+        "Class": "Tm"
+    }, 
+    "11791": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5Y", 
+        "Name": "Tm5Y-F", 
+        "Class": "Tm"
+    }, 
+    "11794": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-F", 
+        "Class": "Mi"
+    }, 
+    "43821": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-A", 
+        "Class": "Dm"
+    }, 
+    "641895": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-6", 
+        "Class": "Pm"
+    }, 
+    "143026": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-7", 
+        "Class": "Dm"
+    }, 
+    "72142": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-D", 
+        "Class": "Mi"
+    }, 
+    "61970": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-C", 
+        "Class": "Mi"
+    }, 
+    "89679": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-101", 
+        "Class": "Dm"
+    }, 
+    "8787": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-B", 
+        "Class": "T2"
+    }, 
+    "31597": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm28", 
+        "Name": "Tm28/TmY9-3", 
+        "Class": "Tm"
+    }, 
+    "31594": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY4", 
+        "Name": "TmY4-like-3", 
+        "Class": "TmY"
+    }, 
+    "16681": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY5", 
+        "Name": "TmY5a-0", 
+        "Class": "TmY"
+    }, 
+    "31591": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "172155": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm8/22", 
+        "Name": "Tm8-like", 
+        "Class": "Tm"
+    }, 
+    "94893": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5c-3", 
+        "Name": "Tm5c-3", 
+        "Class": "Tm"
+    }, 
+    "1314": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-2", 
+        "Class": "Dm"
+    }, 
+    "5061": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-Q", 
+        "Class": "C"
+    }, 
+    "13846": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-1", 
+        "Class": "Pm"
+    }, 
+    "46527": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-F", 
+        "Class": "Tm"
+    }, 
+    "10358": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5 home", 
+        "Class": "L"
+    }, 
+    "109678": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-005", 
+        "Class": "Dm"
+    }, 
+    "549538": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-P", 
+        "Class": "Tm"
+    }, 
+    "439228": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a home", 
+        "Class": "T3"
+    }, 
+    "17016": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-C", 
+        "Class": "Tm"
+    }, 
+    "93731": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-Q", 
+        "Class": "R"
+    }, 
+    "2216": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-A-ant", 
+        "Class": "Tm"
+    }, 
+    "37458": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm28", 
+        "Name": "Tm28/TmY9-4", 
+        "Class": "Tm"
+    }, 
+    "608821": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-D", 
+        "Class": "T4"
+    }, 
+    "612110": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-B", 
+        "Class": "T4"
+    }, 
+    "9575": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm28", 
+        "Name": "Tm28/TmY9-1", 
+        "Class": "Tm"
+    }, 
+    "103466": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm16", 
+        "Name": "Tm16-like-1", 
+        "Class": "Tm"
+    }, 
+    "406430": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-P", 
+        "Class": "Mi"
+    }, 
+    "11783": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-F", 
+        "Class": "Tm"
+    }, 
+    "182754": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-K", 
+        "Class": "R"
+    }, 
+    "48665": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-B-post", 
+        "Class": "Tm"
+    }, 
+    "612527": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-D", 
+        "Class": "T4"
+    }, 
+    "48661": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-B", 
+        "Class": "Mi"
+    }, 
+    "10693": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY3", 
+        "Name": "TmY3-B", 
+        "Class": "TmY"
+    }, 
+    "24108": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-Q", 
+        "Class": "Dm"
+    }, 
+    "236065": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-K", 
+        "Class": "L"
+    }, 
+    "236068": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5b-D", 
+        "Name": "Tm5b-D", 
+        "Class": "Tm"
+    }, 
+    "582841": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-D-ant", 
+        "Class": "Tm"
+    }, 
+    "24105": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY4", 
+        "Name": "TmY4-like-2", 
+        "Class": "TmY"
+    }, 
+    "28642": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9-C", 
+        "Class": "Tm"
+    }, 
+    "361": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-A", 
+        "Class": "Mi"
+    }, 
+    "15730": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-E-ant", 
+        "Class": "Tm"
+    }, 
+    "16659": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-5", 
+        "Class": "Dm"
+    }, 
+    "16658": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-J", 
+        "Class": "Mi"
+    }, 
+    "19604": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm9", 
+        "Name": "Dm9-0", 
+        "Class": "Dm"
+    }, 
+    "7021": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-B", 
+        "Class": "L"
+    }, 
+    "23416": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm5", 
+        "Name": "Dm5-like-1", 
+        "Class": "Dm"
+    }, 
+    "74030": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-D", 
+        "Class": "Tm"
+    }, 
+    "472009": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-D-2nd", 
+        "Class": "T2"
+    }, 
+    "603753": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-X2", 
+        "Class": "T4"
+    }, 
+    "1747": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm9", 
+        "Name": "Dm9-1", 
+        "Class": "Dm"
+    }, 
+    "498812": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-B", 
+        "Class": "Mi"
+    }, 
+    "5979": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-1", 
+        "Class": "Dm"
+    }, 
+    "5325": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-Q", 
+        "Class": "T1"
+    }, 
+    "18274": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-C", 
+        "Class": "C"
+    }, 
+    "597409": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-X1", 
+        "Class": "T4"
+    }, 
+    "37330": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm25", 
+        "Name": "Tm25/Y1-D", 
+        "Class": "Tm"
+    }, 
+    "8749": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-J", 
+        "Class": "T2"
+    }, 
+    "547969": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-F", 
+        "Class": "T4"
+    }, 
+    "436381": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-2", 
+        "Class": "Pm"
+    }, 
+    "557592": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-E", 
+        "Class": "T4"
+    }, 
+    "32073": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-N-post", 
+        "Class": "Tm"
+    }, 
+    "124931": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm28", 
+        "Name": "Tm28/TmY9-2", 
+        "Class": "Tm"
+    }, 
+    "299734": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-L", 
+        "Class": "R"
+    }, 
+    "547003": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4d-ud-Q", 
+        "Class": "T4"
+    }, 
+    "554790": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "33576": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-E", 
+        "Class": "L"
+    }, 
+    "226083": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-D", 
+        "Class": "Dm"
+    }, 
+    "591796": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-L", 
+        "Class": "Tm"
+    }, 
+    "471703": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5Y", 
+        "Name": "Tm5Y-E", 
+        "Class": "Tm"
+    }, 
+    "591793": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-L", 
+        "Class": "Mi"
+    }, 
+    "10319": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1 home", 
+        "Class": "L"
+    }, 
+    "4270": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-F", 
+        "Class": "C"
+    }, 
+    "5021": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-Q", 
+        "Class": "L"
+    }, 
+    "395409": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-3", 
+        "Class": "Pm"
+    }, 
+    "5027": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-Q", 
+        "Class": "L"
+    }, 
+    "574699": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-O", 
+        "Class": "Tm"
+    }, 
+    "547912": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf-P", 
+        "Class": "T4"
+    }, 
+    "137760": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-2", 
+        "Class": "Dm"
+    }, 
+    "4376": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-F", 
+        "Class": "L"
+    }, 
+    "376700": {
+        "Superclass": "Y", 
+        "Type": "Y3/6", 
+        "Name": "Y3/Y6-5", 
+        "Class": "Y"
+    }, 
+    "79246": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-K", 
+        "Class": "L"
+    }, 
+    "26257": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY5", 
+        "Name": "TmY5a-E", 
+        "Class": "TmY"
+    }, 
+    "7994": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-B", 
+        "Class": "T1"
+    }, 
+    "31625": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-E", 
+        "Class": "Mi"
+    }, 
+    "2515": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-F", 
+        "Class": "L"
+    }, 
+    "544769": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-F", 
+        "Class": "T4"
+    }, 
+    "606662": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-E", 
+        "Class": "T4"
+    }, 
+    "10364": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14-B", 
+        "Class": "Tm"
+    }, 
+    "462872": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-P", 
+        "Class": "T3"
+    }, 
+    "16455": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14-C", 
+        "Class": "Tm"
+    }, 
+    "513976": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-E", 
+        "Class": "Tm"
+    }, 
+    "111356": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-0", 
+        "Class": "Dm"
+    }, 
+    "35778": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "9": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-A", 
+        "Class": "R"
+    }, 
+    "199493": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-B/home", 
+        "Class": "Dm"
+    }, 
+    "24436": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-E", 
+        "Class": "L"
+    }, 
+    "518335": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-O", 
+        "Class": "Tm"
+    }, 
+    "406765": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-0", 
+        "Class": "Pm"
+    }, 
+    "44524": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-A", 
+        "Class": "Mi"
+    }, 
+    "571372": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du home", 
+        "Class": "T4"
+    }, 
+    "5835": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm1", 
+        "Name": "Tm1-Q", 
+        "Class": "Tm"
+    }, 
+    "13078": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-F", 
+        "Class": "Mi"
+    }, 
+    "13700": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-F", 
+        "Class": "R"
+    }, 
+    "13701": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-F", 
+        "Class": "L"
+    }, 
+    "195998": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5b-E", 
+        "Name": "Tm5b-E", 
+        "Class": "Tm"
+    }, 
+    "13704": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-F", 
+        "Class": "R"
+    }, 
+    "543549": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24-F", 
+        "Class": "Tm"
+    }, 
+    "13589": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-B-ant", 
+        "Class": "Tm"
+    }, 
+    "392544": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-7", 
+        "Class": "Pm"
+    }, 
+    "14349": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14-F", 
+        "Class": "Tm"
+    }, 
+    "7114": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-0", 
+        "Class": "Pm"
+    }, 
+    "22077": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-D", 
+        "Class": "L"
+    }, 
+    "96147": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY10", 
+        "Name": "TmY10-like-0", 
+        "Class": "TmY"
+    }, 
+    "594927": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-M", 
+        "Class": "Mi"
+    }, 
+    "19640": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1 home", 
+        "Class": "T1"
+    }, 
+    "19643": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-C", 
+        "Class": "L"
+    }, 
+    "21913": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3 home", 
+        "Class": "L"
+    }, 
+    "557687": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-E", 
+        "Class": "T4"
+    }, 
+    "548083": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4c-du-P", 
+        "Class": "T4"
+    }, 
+    "59010": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5Y", 
+        "Name": "Tm5Y-C", 
+        "Class": "Tm"
+    }, 
+    "89146": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-100", 
+        "Class": "Dm"
+    }, 
+    "452027": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-6", 
+        "Class": "Pm"
+    }, 
+    "56": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-A", 
+        "Class": "L"
+    }, 
+    "414362": {
+        "Superclass": "Y", 
+        "Type": "Y3/6", 
+        "Name": "Y3/Y6-1", 
+        "Class": "Y"
+    }, 
+    "50": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-A", 
+        "Class": "L"
+    }, 
+    "11779": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24-F", 
+        "Class": "Tm"
+    }, 
+    "534": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5c-1", 
+        "Name": "Tm5c-1", 
+        "Class": "Tm"
+    }, 
+    "7892": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-B", 
+        "Class": "Tm"
+    }, 
+    "468283": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-11", 
+        "Class": "Pm"
+    }, 
+    "31740": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi2", 
+        "Name": "Mi2-2", 
+        "Class": "Mi"
+    }, 
+    "13852": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi10", 
+        "Name": "Mi10-like", 
+        "Class": "Mi"
+    }, 
+    "459396": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-3", 
+        "Class": "Pm"
+    }, 
+    "242051": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm7", 
+        "Name": "Dm7-1", 
+        "Class": "Dm"
+    }, 
+    "229441": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-D", 
+        "Class": "Mi"
+    }, 
+    "117": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-A", 
+        "Class": "T1"
+    }, 
+    "110": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-A", 
+        "Class": "L"
+    }, 
+    "37537": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-L", 
+        "Class": "Dm"
+    }, 
+    "7972": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-B", 
+        "Class": "R"
+    }, 
+    "439871": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm4", 
+        "Name": "Pm4-1", 
+        "Class": "Pm"
+    }, 
+    "36453": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-K", 
+        "Class": "Dm"
+    }, 
+    "436327": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-7", 
+        "Class": "Pm"
+    }, 
+    "13300": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9-F", 
+        "Class": "Tm"
+    }, 
+    "17092": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-J", 
+        "Class": "L"
+    }, 
+    "50809": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9 home", 
+        "Class": "Mi"
+    }, 
+    "514376": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-E", 
+        "Class": "T3"
+    }, 
+    "9460": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-B", 
+        "Class": "L"
+    }, 
+    "140402": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm4", 
+        "Name": "Dm4-3", 
+        "Class": "Dm"
+    }, 
+    "9544": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "3815": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-F", 
+        "Class": "T1"
+    }, 
+    "526271": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-N", 
+        "Class": "Mi"
+    }, 
+    "55091": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm2-F", 
+        "Class": "Tm"
+    }, 
+    "613457": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4a-fb-D", 
+        "Class": "T4"
+    }, 
+    "48678": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm4", 
+        "Name": "Tm4-B", 
+        "Class": "Tm"
+    }, 
+    "27980": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-C", 
+        "Class": "Mi"
+    }, 
+    "577389": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "373142": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-2", 
+        "Class": "Pm"
+    }, 
+    "21710": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-3", 
+        "Class": "Dm"
+    }, 
+    "557667": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-P", 
+        "Class": "Mi"
+    }, 
+    "33067": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3 home-ant", 
+        "Class": "Tm"
+    }, 
+    "11775": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24-F", 
+        "Class": "Tm"
+    }, 
+    "31716": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-D", 
+        "Class": "T2"
+    }, 
+    "510916": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-4", 
+        "Class": "Pm"
+    }, 
+    "28652": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-C", 
+        "Class": "Dm"
+    }, 
+    "11777": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm2", 
+        "Name": "Tm22-like", 
+        "Class": "Tm"
+    }, 
+    "182805": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-K", 
+        "Class": "Mi"
+    }, 
+    "24444": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-E", 
+        "Class": "T1"
+    }, 
+    "568121": {
+        "Superclass": "Lobula plate T-type", 
+        "Type": "T4", 
+        "Name": "T4b-bf home", 
+        "Class": "T4"
+    }, 
+    "28658": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14-J", 
+        "Class": "Tm"
+    }, 
+    "16648": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm3", 
+        "Name": "Dm3-2", 
+        "Class": "Dm"
+    }, 
+    "22034": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-P-post", 
+        "Class": "Tm"
+    }, 
+    "16647": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5Y", 
+        "Name": "Tm5Y home", 
+        "Class": "Tm"
+    }, 
+    "491023": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm6/14", 
+        "Name": "Tm6/14 home", 
+        "Class": "Tm"
+    }, 
+    "20789": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-D-post", 
+        "Class": "Tm"
+    }, 
+    "156245": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-P", 
+        "Class": "L"
+    }, 
+    "31886": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-E", 
+        "Class": "R"
+    }, 
+    "30465": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1 home", 
+        "Class": "Mi"
+    }, 
+    "26338": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-C", 
+        "Class": "L"
+    }, 
+    "26332": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-C", 
+        "Class": "R"
+    }, 
+    "19765": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm9", 
+        "Name": "Tm9 home", 
+        "Class": "Tm"
+    }, 
+    "82097": {
+        "Superclass": "Lamina", 
+        "Type": "L4", 
+        "Name": "L4-L", 
+        "Class": "L"
+    }, 
+    "57799": {
+        "Superclass": "Lamina", 
+        "Type": "T1", 
+        "Name": "T1-P", 
+        "Class": "T1"
+    }, 
+    "148875": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5b-B", 
+        "Name": "Tm5b-B", 
+        "Class": "Tm"
+    }, 
+    "603788": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi4", 
+        "Name": "Mi4-3", 
+        "Class": "Mi"
+    }, 
+    "22045": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-E", 
+        "Class": "L"
+    }, 
+    "33686": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-E-ant", 
+        "Class": "Tm"
+    }, 
+    "22048": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1 home", 
+        "Class": "Dm"
+    }, 
+    "4600": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm25", 
+        "Name": "Tm25/Y1 home", 
+        "Class": "Tm"
+    }, 
+    "18326": {
+        "Superclass": "Lamina", 
+        "Type": "C2", 
+        "Name": "C2-C", 
+        "Class": "C"
+    }, 
+    "238814": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-L", 
+        "Class": "L"
+    }, 
+    "547012": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-F", 
+        "Class": "C"
+    }, 
+    "2211": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm25", 
+        "Name": "Tm25/Y1-F", 
+        "Class": "Tm"
+    }, 
+    "28668": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY13", 
+        "Name": "TmY13-like-1", 
+        "Class": "TmY"
+    }, 
+    "7084": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-I-ant", 
+        "Class": "Tm"
+    }, 
+    "7086": {
+        "Superclass": "Lamina", 
+        "Type": "Lawf1", 
+        "Name": "Lawf1-0", 
+        "Class": "Lawf"
+    }, 
+    "2219": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5Y", 
+        "Name": "Tm5Y-Q", 
+        "Class": "Tm"
+    }, 
+    "76700": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-E", 
+        "Class": "Dm"
+    }, 
+    "238819": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-K-ant", 
+        "Class": "Tm"
+    }, 
+    "585918": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-O", 
+        "Class": "Mi"
+    }, 
+    "142492": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R8", 
+        "Name": "R8-Q", 
+        "Class": "R"
+    }, 
+    "43388": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-A", 
+        "Class": "Mi"
+    }, 
+    "165557": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-E", 
+        "Name": "Tm20-E", 
+        "Class": "Tm"
+    }, 
+    "9459": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "9132": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm9", 
+        "Name": "Dm9-2", 
+        "Class": "Dm"
+    }, 
+    "488524": {
+        "Superclass": "Y", 
+        "Type": "Y3/6", 
+        "Name": "Y3/Y6-3", 
+        "Class": "Y"
+    }, 
+    "21969": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi4", 
+        "Name": "Mi4-0", 
+        "Class": "Mi"
+    }, 
+    "4240": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-F", 
+        "Class": "L"
+    }, 
+    "37867": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-K", 
+        "Class": "T2"
+    }, 
+    "551613": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2", 
+        "Name": "T2-J", 
+        "Class": "T2"
+    }, 
+    "28689": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY5", 
+        "Name": "TmY5a-D", 
+        "Class": "TmY"
+    }, 
+    "28688": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-C", 
+        "Class": "R"
+    }, 
+    "1896": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm3", 
+        "Name": "Tm3-J-ant", 
+        "Class": "Tm"
+    }, 
+    "192806": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-A", 
+        "Class": "T2"
+    }, 
+    "63673": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-K-ant", 
+        "Class": "Tm"
+    }, 
+    "406309": {
+        "Superclass": "Y", 
+        "Type": "Y3/6", 
+        "Name": "Y3/Y6-0", 
+        "Class": "Y"
+    }, 
+    "235985": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm8", 
+        "Name": "Dm8-K", 
+        "Class": "Dm"
+    }, 
+    "445133": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-B", 
+        "Class": "T3"
+    }, 
+    "47": {
+        "Superclass": "Lamina", 
+        "Type": "L5", 
+        "Name": "L5-A", 
+        "Class": "L"
+    }, 
+    "11727": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY4", 
+        "Name": "TmY4-like-0", 
+        "Class": "TmY"
+    }, 
+    "11725": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "458108": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm20-L", 
+        "Name": "Tm20-L", 
+        "Class": "Tm"
+    }, 
+    "9423": {
+        "Superclass": "Lamina", 
+        "Type": "C3", 
+        "Name": "C3-B", 
+        "Class": "C"
+    }, 
+    "33607": {
+        "Superclass": "TmY-type", 
+        "Type": "TmY4", 
+        "Name": "TmY4-like-4", 
+        "Class": "TmY"
+    }, 
+    "26054": {
+        "Superclass": "Lamina", 
+        "Type": "L2", 
+        "Name": "L2-P", 
+        "Class": "L"
+    }, 
+    "5025": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi9", 
+        "Name": "Mi9-Q", 
+        "Class": "Mi"
+    }, 
+    "55446": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm5a", 
+        "Name": "Tm5a-D-ant", 
+        "Class": "Tm"
+    }, 
+    "40405": {
+        "Superclass": "Photoreceptors", 
+        "Type": "R7", 
+        "Name": "R7-D", 
+        "Class": "R"
+    }, 
+    "403485": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm2", 
+        "Name": "Pm2-4", 
+        "Class": "Pm"
+    }, 
+    "13828": {
+        "Superclass": "Transmedulla", 
+        "Type": "Tm23/24", 
+        "Name": "Tm23/24", 
+        "Class": "Tm"
+    }, 
+    "40403": {
+        "Superclass": "Lamina", 
+        "Type": "L3", 
+        "Name": "L3-D", 
+        "Class": "L"
+    }, 
+    "5048": {
+        "Superclass": "Lamina", 
+        "Type": "L1", 
+        "Name": "L1-Q", 
+        "Class": "L"
+    }, 
+    "13822": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm1", 
+        "Name": "Dm1-F", 
+        "Class": "Dm"
+    }, 
+    "5043": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-Q", 
+        "Class": "Mi"
+    }, 
+    "437950": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T2a", 
+        "Name": "T2a-Q", 
+        "Class": "T3"
+    }, 
+    "327563": {
+        "Superclass": "Lobula T-type", 
+        "Type": "T3", 
+        "Name": "T3-P", 
+        "Class": "T2"
+    }, 
+    "4993": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi3", 
+        "Name": "Mi3-Q", 
+        "Class": "Mi"
+    }, 
+    "474": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm6", 
+        "Name": "Dm6-4", 
+        "Class": "Dm"
+    }, 
+    "7463": {
+        "Superclass": "Intrinsic Medulla", 
+        "Type": "Mi1", 
+        "Name": "Mi1-B", 
+        "Class": "Mi"
+    }, 
+    "459444": {
+        "Superclass": "Proximal Medulla", 
+        "Type": "Pm1", 
+        "Name": "Pm1-8", 
+        "Class": "Pm"
+    }, 
+    "88872": {
+        "Superclass": "Distal Medulla", 
+        "Type": "Dm2", 
+        "Name": "Dm2-004", 
+        "Class": "Dm"
+    }
+}
