@@ -3,7 +3,7 @@ Connectome Hackathon 2015      [![Picture](https://raw.github.com/janelia-flyem/
 *Status: almost ready (there will be some modifications to the neuroninfo file)*
 
 
-*This data cannot be used for biological discovery or biological publications before Fly EM publishes this material.  For other purposes (general bio data analysis algorithms, etc), this data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/. A simple description of the license is provided [here](http://opendatacommons.org/licenses/by/summary/)*
+**This data cannot be used for biological discovery or biological publications before Fly EM publishes it.  For other purposes (general bio data analysis algorithms, etc), this data is made available under the Open Data Commons Attribution License: http://opendatacommons.org/licenses/by/1.0/. A simple description of the license is provided [here](http://opendatacommons.org/licenses/by/summary/)**
 
 
 Information for the Janelia Connectome Workshop and Hackathon 2015.  The repository contains files that will be useful for hackathon attendees.  See the [Hackathon Wiki](https://github.com/janelia-flyem/ConnectomeHackathon2015/wiki) for more information including documentation and use cases.
