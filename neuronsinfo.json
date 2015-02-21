@@ -781,7 +781,7 @@
     }, 
     "110": {
         "Class": "L", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.4516129032", 
             "B": "0", 
@@ -901,7 +901,7 @@
     }, 
     "11154": {
         "Class": "L", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0697674419", 
             "B": "0.4186046512", 
@@ -1141,7 +1141,7 @@
     }, 
     "114789": {
         "Class": "Tm", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -1261,7 +1261,7 @@
     }, 
     "117": {
         "Class": "T1", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.9975186104", 
             "B": "0", 
@@ -1495,7 +1495,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "Tm23/24-f", 
+        "Name": "Tm23/24-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm23/24"
     }, 
@@ -1615,13 +1615,13 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "Tm23/24-f", 
+        "Name": "Tm23/24-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm23/24"
     }, 
     "11783": {
         "Class": "Tm", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -1675,7 +1675,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "Tm5b-f", 
+        "Name": "Tm5b-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm5b"
     }, 
@@ -1735,13 +1735,13 @@
             "m8": "0.2083333333", 
             "m9": "0"
         }, 
-        "Name": "Tm5Y-f", 
+        "Name": "Tm5Y-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm5Y"
     }, 
     "11794": {
         "Class": "Mi", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -1795,7 +1795,7 @@
             "m8": "0.1294117647", 
             "m9": "0.1705882353"
         }, 
-        "Name": "Mi3-f", 
+        "Name": "Mi3-F", 
         "Superclass": "Intrinsic Medulla", 
         "Type": "Mi3"
     }, 
@@ -2101,7 +2101,7 @@
     }, 
     "13078": {
         "Class": "Mi", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -2155,7 +2155,7 @@
             "m8": "0.0025641026", 
             "m9": "0.5282051282"
         }, 
-        "Name": "Mi1-f", 
+        "Name": "Mi1-F", 
         "Superclass": "Intrinsic Medulla", 
         "Type": "Mi1"
     }, 
@@ -2275,7 +2275,7 @@
             "m8": "0.7027027027", 
             "m9": "0"
         }, 
-        "Name": "Tm9-f", 
+        "Name": "Tm9-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm9"
     }, 
@@ -2401,7 +2401,7 @@
     }, 
     "13700": {
         "Class": "R", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -2455,13 +2455,13 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "R8-f", 
+        "Name": "R8-F", 
         "Superclass": "Photoreceptors", 
         "Type": "R8"
     }, 
     "13701": {
         "Class": "L", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -2515,13 +2515,13 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "L3-f", 
+        "Name": "L3-F", 
         "Superclass": "Lamina", 
         "Type": "L3"
     }, 
     "13704": {
         "Class": "R", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -2575,13 +2575,13 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "R7-f", 
+        "Name": "R7-F", 
         "Superclass": "Photoreceptors", 
         "Type": "R7"
     }, 
     "137381": {
         "Class": "Tm", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.9459459459", 
             "B": "0", 
@@ -2641,7 +2641,7 @@
     }, 
     "137555": {
         "Class": "Tm", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.8484848485", 
             "B": "0.1515151515", 
@@ -2815,7 +2815,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "Dm4-f", 
+        "Name": "Dm4-F", 
         "Superclass": "Distal Medulla", 
         "Type": "Dm4"
     }, 
@@ -3355,13 +3355,13 @@
             "m8": "0.5", 
             "m9": "0.5"
         }, 
-        "Name": "Tm6/14-f", 
+        "Name": "Tm6/14-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm6/14"
     }, 
     "146": {
         "Class": "C", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.8322147651", 
             "B": "0", 
@@ -3661,7 +3661,7 @@
     }, 
     "150507": {
         "Class": "Tm", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0.0366972477", 
             "B": "0", 
@@ -3715,7 +3715,7 @@
             "m8": "0.0769230769", 
             "m9": "0"
         }, 
-        "Name": "Tm20-f", 
+        "Name": "Tm20-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm20"
     }, 
@@ -3955,7 +3955,7 @@
             "m8": "0.2", 
             "m9": "0.4"
         }, 
-        "Name": "T3-f", 
+        "Name": "T3-F", 
         "Superclass": "Lobula T-type", 
         "Type": "T3"
     }, 
@@ -4141,7 +4141,7 @@
     }, 
     "16499": {
         "Class": "R", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.9886363636", 
@@ -4201,7 +4201,7 @@
     }, 
     "165557": {
         "Class": "Tm", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -4681,7 +4681,7 @@
     }, 
     "16677": {
         "Class": "L", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -4981,7 +4981,7 @@
     }, 
     "17016": {
         "Class": "Tm", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0326086957", 
@@ -5221,7 +5221,7 @@
     }, 
     "17238": {
         "Class": "Tm", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0774193548", 
@@ -5461,7 +5461,7 @@
     }, 
     "1752": {
         "Class": "Tm", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.9673024523", 
             "B": "0.0027247956", 
@@ -5521,7 +5521,7 @@
     }, 
     "18274": {
         "Class": "C", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0085470085", 
@@ -5881,7 +5881,7 @@
     }, 
     "18326": {
         "Class": "C", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0.0127388535", 
             "B": "0.0382165605", 
@@ -6061,7 +6061,7 @@
     }, 
     "19183": {
         "Class": "Tm", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0087145969", 
             "B": "0.9716775599", 
@@ -6781,7 +6781,7 @@
     }, 
     "2048": {
         "Class": "Tm", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.9278688525", 
             "B": "0", 
@@ -7075,7 +7075,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "Dm8-f", 
+        "Name": "Dm8-F", 
         "Superclass": "Distal Medulla", 
         "Type": "Dm8"
     }, 
@@ -7681,7 +7681,7 @@
     }, 
     "22045": {
         "Class": "L", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -7801,7 +7801,7 @@
     }, 
     "22056": {
         "Class": "C", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0053763441", 
@@ -7921,7 +7921,7 @@
     }, 
     "22077": {
         "Class": "L", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -8035,7 +8035,7 @@
             "m8": "0.4210526316", 
             "m9": "0.2631578947"
         }, 
-        "Name": "Tm25/Y1-f", 
+        "Name": "Tm25/Y1-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm25"
     }, 
@@ -8461,7 +8461,7 @@
     }, 
     "229441": {
         "Class": "Mi", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -8695,7 +8695,7 @@
             "m8": "0.0277777778", 
             "m9": "0"
         }, 
-        "Name": "Tm4-f", 
+        "Name": "Tm4-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm4"
     }, 
@@ -9481,7 +9481,7 @@
     }, 
     "24436": {
         "Class": "L", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -9541,7 +9541,7 @@
     }, 
     "24444": {
         "Class": "T1", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -9661,7 +9661,7 @@
     }, 
     "24832": {
         "Class": "C", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -9721,7 +9721,7 @@
     }, 
     "2515": {
         "Class": "L", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -9775,7 +9775,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "L1-f", 
+        "Name": "L1-F", 
         "Superclass": "Lamina", 
         "Type": "L1"
     }, 
@@ -9901,7 +9901,7 @@
     }, 
     "26038": {
         "Class": "L", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -10141,7 +10141,7 @@
     }, 
     "26332": {
         "Class": "R", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -10201,7 +10201,7 @@
     }, 
     "26338": {
         "Class": "L", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0086206897", 
@@ -10261,7 +10261,7 @@
     }, 
     "26353": {
         "Class": "L", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -10321,7 +10321,7 @@
     }, 
     "26440": {
         "Class": "T1", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -10381,7 +10381,7 @@
     }, 
     "26471": {
         "Class": "Mi", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0061538462", 
@@ -10681,7 +10681,7 @@
     }, 
     "27489": {
         "Class": "L", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.1267605634", 
@@ -10741,7 +10741,7 @@
     }, 
     "27980": {
         "Class": "Mi", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -11221,7 +11221,7 @@
     }, 
     "28666": {
         "Class": "C", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0328947368", 
@@ -11401,7 +11401,7 @@
     }, 
     "28688": {
         "Class": "R", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -11521,7 +11521,7 @@
     }, 
     "28700": {
         "Class": "L", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -11581,7 +11581,7 @@
     }, 
     "29": {
         "Class": "C", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.7685185185", 
             "B": "0", 
@@ -11761,7 +11761,7 @@
     }, 
     "30155": {
         "Class": "L", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -11881,7 +11881,7 @@
     }, 
     "31342": {
         "Class": "Tm", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -12181,7 +12181,7 @@
     }, 
     "31625": {
         "Class": "Mi", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -12481,7 +12481,7 @@
     }, 
     "31886": {
         "Class": "R", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -12841,7 +12841,7 @@
     }, 
     "33576": {
         "Class": "L", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -13081,7 +13081,7 @@
     }, 
     "33694": {
         "Class": "R", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -13141,7 +13141,7 @@
     }, 
     "35244": {
         "Class": "Mi", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -13561,7 +13561,7 @@
     }, 
     "361": {
         "Class": "Mi", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.8978494624", 
             "B": "0", 
@@ -14155,7 +14155,7 @@
             "m8": "0.2972972973", 
             "m9": "0.4594594595"
         }, 
-        "Name": "T2-f", 
+        "Name": "T2-F", 
         "Superclass": "Lobula T-type", 
         "Type": "T2"
     }, 
@@ -14221,7 +14221,7 @@
     }, 
     "3815": {
         "Class": "T1", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -14275,7 +14275,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "T1-f", 
+        "Name": "T1-F", 
         "Superclass": "Lamina", 
         "Type": "T1"
     }, 
@@ -14401,7 +14401,7 @@
     }, 
     "38583": {
         "Class": "R", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -14461,7 +14461,7 @@
     }, 
     "38603": {
         "Class": "T1", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -14521,7 +14521,7 @@
     }, 
     "38612": {
         "Class": "C", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -14635,7 +14635,7 @@
             "m8": "0", 
             "m9": "0.3529411765"
         }, 
-        "Name": "TmY3-f", 
+        "Name": "TmY3-F", 
         "Superclass": "TmY-type", 
         "Type": "TmY3"
     }, 
@@ -14881,7 +14881,7 @@
     }, 
     "40403": {
         "Class": "L", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -14941,7 +14941,7 @@
     }, 
     "40405": {
         "Class": "R", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -15421,7 +15421,7 @@
     }, 
     "4240": {
         "Class": "L", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0.0138248848", 
             "B": "0", 
@@ -15475,13 +15475,13 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "L2-f", 
+        "Name": "L2-F", 
         "Superclass": "Lamina", 
         "Type": "L2"
     }, 
     "4270": {
         "Class": "C", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0.035971223", 
             "B": "0", 
@@ -15535,13 +15535,13 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "C2-f", 
+        "Name": "C2-F", 
         "Superclass": "Lamina", 
         "Type": "C2"
     }, 
     "43388": {
         "Class": "Mi", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.8634361233", 
             "B": "0", 
@@ -15901,7 +15901,7 @@
     }, 
     "4376": {
         "Class": "L", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -15955,7 +15955,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "L5-f", 
+        "Name": "L5-F", 
         "Superclass": "Lamina", 
         "Type": "L5"
     }, 
@@ -16381,7 +16381,7 @@
     }, 
     "44524": {
         "Class": "Mi", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.9344262295", 
             "B": "0.0054644809", 
@@ -16495,7 +16495,7 @@
             "m8": "0.0434782609", 
             "m9": "0.9565217391"
         }, 
-        "Name": "T2a-f", 
+        "Name": "T2a-F", 
         "Superclass": "Lobula T-type", 
         "Type": "T2a"
     }, 
@@ -16795,7 +16795,7 @@
             "m8": "0.375", 
             "m9": "0.2361111111"
         }, 
-        "Name": "TmY5a-f", 
+        "Name": "TmY5a-F", 
         "Superclass": "TmY-type", 
         "Type": "TmY5"
     }, 
@@ -16921,7 +16921,7 @@
     }, 
     "45757": {
         "Class": "Mi", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0.0028169014", 
             "B": "0", 
@@ -16975,7 +16975,7 @@
             "m8": "0.1954022989", 
             "m9": "0.091954023"
         }, 
-        "Name": "Mi9-f", 
+        "Name": "Mi9-F", 
         "Superclass": "Intrinsic Medulla", 
         "Type": "Mi9"
     }, 
@@ -17341,7 +17341,7 @@
     }, 
     "46527": {
         "Class": "Tm", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -17395,7 +17395,7 @@
             "m8": "0.0116731518", 
             "m9": "0.7042801556"
         }, 
-        "Name": "Tm1-f", 
+        "Name": "Tm1-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm1"
     }, 
@@ -17581,7 +17581,7 @@
     }, 
     "47": {
         "Class": "L", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.9565217391", 
             "B": "0", 
@@ -17941,7 +17941,7 @@
     }, 
     "48661": {
         "Class": "Mi", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0117302053", 
             "B": "0.9472140762", 
@@ -18061,7 +18061,7 @@
     }, 
     "48678": {
         "Class": "Tm", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0108695652", 
             "B": "0.8043478261", 
@@ -18301,7 +18301,7 @@
     }, 
     "498812": {
         "Class": "Mi", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0328767123", 
             "B": "0.8575342466", 
@@ -18421,7 +18421,7 @@
     }, 
     "50": {
         "Class": "L", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "0.8846153846", 
             "B": "0", 
@@ -18535,7 +18535,7 @@
             "m8": "0.4431818182", 
             "m9": "0.3863636364"
         }, 
-        "Name": "Tm5a-f-ant", 
+        "Name": "Tm5a-F-ant", 
         "Superclass": "Transmedulla", 
         "Type": "Tm5a"
     }, 
@@ -19081,7 +19081,7 @@
     }, 
     "513976": {
         "Class": "Tm", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -19441,7 +19441,7 @@
     }, 
     "525937": {
         "Class": "Mi", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -19915,7 +19915,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "Tm23/24-f", 
+        "Name": "Tm23/24-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm23/24"
     }, 
@@ -19975,7 +19975,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "T4a-fb-f", 
+        "Name": "T4a-fb-F", 
         "Superclass": "Lobula plate T-type", 
         "Type": "T4"
     }, 
@@ -20035,7 +20035,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "T4d-ud-f", 
+        "Name": "T4d-ud-F", 
         "Superclass": "Lobula plate T-type", 
         "Type": "T4"
     }, 
@@ -20161,7 +20161,7 @@
     }, 
     "547012": {
         "Class": "C", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0.0100502513", 
             "B": "0", 
@@ -20215,7 +20215,7 @@
             "m8": "0", 
             "m9": "0.0546875"
         }, 
-        "Name": "C3-f", 
+        "Name": "C3-F", 
         "Superclass": "Lamina", 
         "Type": "C3"
     }, 
@@ -20275,7 +20275,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "T4c-du-f", 
+        "Name": "T4c-du-F", 
         "Superclass": "Lobula plate T-type", 
         "Type": "T4"
     }, 
@@ -20455,7 +20455,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "T4b-bf-f", 
+        "Name": "T4b-bf-F", 
         "Superclass": "Lobula plate T-type", 
         "Type": "T4"
     }, 
@@ -20581,7 +20581,7 @@
     }, 
     "55091": {
         "Class": "Tm", 
-        "Column ID": "f", 
+        "Column ID": "F", 
         "Column PSD Fraction": {
             "A": "0.0045351474", 
             "B": "0", 
@@ -20635,7 +20635,7 @@
             "m8": "0", 
             "m9": "0.3428571429"
         }, 
-        "Name": "Tm2-f", 
+        "Name": "Tm2-F", 
         "Superclass": "Transmedulla", 
         "Type": "Tm2"
     }, 
@@ -21241,7 +21241,7 @@
     }, 
     "56": {
         "Class": "L", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "1", 
             "B": "0", 
@@ -21481,7 +21481,7 @@
     }, 
     "571192": {
         "Class": "Mi", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -21961,7 +21961,7 @@
     }, 
     "582704": {
         "Class": "Tm", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -22381,7 +22381,7 @@
     }, 
     "59003": {
         "Class": "Tm", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -23881,7 +23881,7 @@
     }, 
     "61970": {
         "Class": "Mi", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.010178117", 
@@ -24355,7 +24355,7 @@
             "m8": "0", 
             "m9": "0"
         }, 
-        "Name": "L4-f", 
+        "Name": "L4-F", 
         "Superclass": "Lamina", 
         "Type": "L4"
     }, 
@@ -24481,7 +24481,7 @@
     }, 
     "7021": {
         "Class": "L", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.9090909091", 
@@ -24781,7 +24781,7 @@
     }, 
     "7131": {
         "Class": "L", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0205655527", 
             "B": "0.9485861183", 
@@ -24901,7 +24901,7 @@
     }, 
     "71472": {
         "Class": "Tm", 
-        "Column ID": "c", 
+        "Column ID": "C", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.0139211137", 
@@ -24961,7 +24961,7 @@
     }, 
     "72142": {
         "Class": "Mi", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -25021,7 +25021,7 @@
     }, 
     "74030": {
         "Class": "Tm", 
-        "Column ID": "d", 
+        "Column ID": "D", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -25081,7 +25081,7 @@
     }, 
     "7463": {
         "Class": "Mi", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.9217391304", 
@@ -25141,7 +25141,7 @@
     }, 
     "75101": {
         "Class": "Tm", 
-        "Column ID": "e", 
+        "Column ID": "E", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0", 
@@ -25201,7 +25201,7 @@
     }, 
     "7595": {
         "Class": "C", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0510948905", 
             "B": "0.6131386861", 
@@ -25501,7 +25501,7 @@
     }, 
     "77": {
         "Class": "R", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "1", 
             "B": "0", 
@@ -25561,7 +25561,7 @@
     }, 
     "7763": {
         "Class": "L", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0127659574", 
             "B": "0.9617021277", 
@@ -25621,7 +25621,7 @@
     }, 
     "7892": {
         "Class": "Tm", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0104712042", 
             "B": "0.9083769634", 
@@ -25801,7 +25801,7 @@
     }, 
     "7972": {
         "Class": "R", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0", 
             "B": "0.9019607843", 
@@ -25861,7 +25861,7 @@
     }, 
     "7994": {
         "Class": "T1", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0021008403", 
             "B": "0.9978991597", 
@@ -26641,7 +26641,7 @@
     }, 
     "9": {
         "Class": "R", 
-        "Column ID": "a", 
+        "Column ID": "A", 
         "Column PSD Fraction": {
             "A": "1", 
             "B": "0", 
@@ -27001,7 +27001,7 @@
     }, 
     "9423": {
         "Class": "C", 
-        "Column ID": "b", 
+        "Column ID": "B", 
         "Column PSD Fraction": {
             "A": "0.0112359551", 
             "B": "0.9269662921", 
